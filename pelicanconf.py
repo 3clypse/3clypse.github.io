@@ -4,8 +4,10 @@ from __future__ import unicode_literals
 
 AUTHOR = u'David Ureba'
 SITENAME = u'David Ureba'
-SITEURL = '3clypse.github.io'
+SITEURL = 'https://3clypse.github.io'
 
+THEME = 'themes/bootstrap2'
+OUTPUT_PATH = 'output'
 PATH = 'content'
 
 TIMEZONE = 'Europe/Madrid'
